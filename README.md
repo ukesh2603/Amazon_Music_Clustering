@@ -200,7 +200,7 @@ The songs were grouped into **three meaningful clusters** based on their audio c
 
 The project includes visualization to understand the clustering results.
 
-- PCA Scatter Plot
+- PCA Scatter Plot [Screenshots]
 
 ---
 
