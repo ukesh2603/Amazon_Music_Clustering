@@ -24,7 +24,7 @@ This project applies **Unsupervised Machine Learning** techniques to cluster son
 
 **Dataset:** `single_genre_artists.csv`
 
-The dataset contains song metadata along with Spotify audio features.
+The dataset contains song metadata along with audio features.
 
 ### Selected Features
 
@@ -219,16 +219,16 @@ The project includes visualization to understand the clustering results.
 
 The dashboard provides:
 
-- 📄 View Original Dataset
-- 📄 View Clustered Dataset
-- 📥 Download Original Dataset
-- 📥 Download Clustered Dataset
-- 📥 Download Cluster-wise CSV Files
-- 📊 PCA Scatter Plot Visualization
+- View Original Dataset
+- View Clustered Dataset
+- Download Original Dataset
+- Download Clustered Dataset
+- Download Cluster-wise CSV Files
+- PCA Scatter Plot Visualization
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Amazon_Music_Clustering/
@@ -241,6 +241,9 @@ Amazon_Music_Clustering/
 │   ├── Energetic Tracks.csv
 │   └── Speech Oriented Tracks.csv
 │
+├── Screenshots/
+│   ├── Cluster_Result.png
+
 ├── app.py
 ├── Clustering.ipynb
 ├── Data_Loading_and_Preprocessing.ipynb
